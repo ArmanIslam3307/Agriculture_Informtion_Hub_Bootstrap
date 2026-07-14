@@ -1,0 +1,15 @@
+header .carousel_banner .carousel-indicators [data-bs-target] {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+header .banner{
+    /* background-image: url(../images/banner.jpg); */
+    background-size: cover;
+    background-position: center center;
+    height: 32vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
